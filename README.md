@@ -1,6 +1,6 @@
 # 랭체인 실습 레포지토리
 
-- https://froggy1014.github.io/study/LLM/
+- [블로그 포스팅](https://froggy1014.github.io/posts/llm/)
 
 1. data라는 폴더안에 정보가 기입된 .txt파일을 넣어주세요.
 
